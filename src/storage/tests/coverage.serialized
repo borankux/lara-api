@@ -1,0 +1,761 @@
+<?php
+$coverage = new SebastianBergmann\CodeCoverage\CodeCoverage;
+$coverage->setData(array (
+  '/Users/mirzat/Desktop/pengjisoft/caomei-laravel/app/Exceptions/DuplicateUniqueIdException.php' => 
+  array (
+  ),
+  '/Users/mirzat/Desktop/pengjisoft/caomei-laravel/app/Entities/GoodsCollection.php' => 
+  array (
+  ),
+  '/Users/mirzat/Desktop/pengjisoft/caomei-laravel/app/Entities/Printer.php' => 
+  array (
+  ),
+  '/Users/mirzat/Desktop/pengjisoft/caomei-laravel/app/Entities/Staff.php' => 
+  array (
+  ),
+  '/Users/mirzat/Desktop/pengjisoft/caomei-laravel/app/Exceptions/UnauthorizedUserException.php' => 
+  array (
+    9 => 
+    array (
+    ),
+    10 => 
+    array (
+    ),
+  ),
+  '/Users/mirzat/Desktop/pengjisoft/caomei-laravel/app/Entities/WechatInfo.php' => 
+  array (
+  ),
+  '/Users/mirzat/Desktop/pengjisoft/caomei-laravel/app/Http/Middleware/TrimStrings.php' => 
+  array (
+  ),
+  '/Users/mirzat/Desktop/pengjisoft/caomei-laravel/app/Exceptions/Handler.php' => 
+  array (
+    52 => 
+    array (
+    ),
+    53 => 
+    array (
+    ),
+    55 => 
+    array (
+    ),
+    56 => 
+    array (
+    ),
+    71 => 
+    array (
+    ),
+    74 => 
+    array (
+    ),
+    75 => 
+    array (
+    ),
+    78 => 
+    array (
+    ),
+    82 => 
+    array (
+    ),
+    83 => 
+    array (
+    ),
+    87 => 
+    array (
+    ),
+    88 => 
+    array (
+    ),
+    89 => 
+    array (
+    ),
+    90 => 
+    array (
+    ),
+    92 => NULL,
+    102 => 
+    array (
+    ),
+    103 => 
+    array (
+    ),
+    104 => NULL,
+  ),
+  '/Users/mirzat/Desktop/pengjisoft/caomei-laravel/app/Http/Responses/ApiResponse.php' => 
+  array (
+    21 => 
+    array (
+    ),
+    22 => 
+    array (
+    ),
+    23 => 
+    array (
+    ),
+    24 => NULL,
+    34 => 
+    array (
+    ),
+    35 => 
+    array (
+    ),
+    36 => 
+    array (
+    ),
+    38 => 
+    array (
+    ),
+    39 => 
+    array (
+    ),
+    40 => 
+    array (
+    ),
+    41 => 
+    array (
+    ),
+    44 => 
+    array (
+    ),
+    45 => 
+    array (
+    ),
+    48 => 
+    array (
+    ),
+    49 => NULL,
+    63 => 
+    array (
+    ),
+    64 => 
+    array (
+    ),
+    65 => NULL,
+    77 => 
+    array (
+    ),
+    78 => 
+    array (
+    ),
+    79 => NULL,
+    91 => 
+    array (
+    ),
+    92 => 
+    array (
+    ),
+    93 => NULL,
+    105 => 
+    array (
+    ),
+    106 => 
+    array (
+    ),
+    107 => NULL,
+    119 => 
+    array (
+    ),
+    120 => 
+    array (
+    ),
+    121 => NULL,
+  ),
+  '/Users/mirzat/Desktop/pengjisoft/caomei-laravel/app/Entities/GoodsCategory.php' => 
+  array (
+  ),
+  '/Users/mirzat/Desktop/pengjisoft/caomei-laravel/app/Entities/Order.php' => 
+  array (
+  ),
+  '/Users/mirzat/Desktop/pengjisoft/caomei-laravel/app/Entities/Qrcode.php' => 
+  array (
+  ),
+  '/Users/mirzat/Desktop/pengjisoft/caomei-laravel/app/Http/Middleware/VerifyCsrfToken.php' => 
+  array (
+  ),
+  '/Users/mirzat/Desktop/pengjisoft/caomei-laravel/app/Services/GoodsCategoryService.php' => 
+  array (
+    20 => 
+    array (
+    ),
+    21 => 
+    array (
+    ),
+    25 => 
+    array (
+    ),
+    26 => 
+    array (
+    ),
+    27 => 
+    array (
+    ),
+    29 => 
+    array (
+    ),
+    30 => 
+    array (
+    ),
+    31 => 
+    array (
+    ),
+    32 => 
+    array (
+    ),
+    33 => 
+    array (
+    ),
+    34 => 
+    array (
+    ),
+    35 => 
+    array (
+    ),
+    39 => 
+    array (
+    ),
+    40 => NULL,
+    44 => 
+    array (
+    ),
+    45 => NULL,
+    49 => 
+    array (
+    ),
+    50 => 
+    array (
+    ),
+    52 => 
+    array (
+    ),
+    54 => 
+    array (
+    ),
+    55 => NULL,
+    59 => 
+    array (
+    ),
+    60 => 
+    array (
+    ),
+    61 => 
+    array (
+    ),
+    63 => 
+    array (
+    ),
+    64 => 
+    array (
+    ),
+    65 => 
+    array (
+    ),
+    67 => 
+    array (
+    ),
+    68 => 
+    array (
+    ),
+    69 => NULL,
+    73 => 
+    array (
+    ),
+    74 => NULL,
+    78 => 
+    array (
+    ),
+    79 => 
+    array (
+    ),
+    81 => 
+    array (
+    ),
+    82 => 
+    array (
+    ),
+    83 => NULL,
+    87 => 
+    array (
+    ),
+    88 => NULL,
+  ),
+  '/Users/mirzat/Desktop/pengjisoft/caomei-laravel/app/Entities/OrderHistory.php' => 
+  array (
+  ),
+  '/Users/mirzat/Desktop/pengjisoft/caomei-laravel/app/Entities/Restraunt.php' => 
+  array (
+  ),
+  '/Users/mirzat/Desktop/pengjisoft/caomei-laravel/app/Exceptions/InvalidArgumentException.php' => 
+  array (
+  ),
+  '/Users/mirzat/Desktop/pengjisoft/caomei-laravel/app/Providers/BroadcastServiceProvider.php' => 
+  array (
+    17 => 
+    array (
+    ),
+    19 => 
+    array (
+    ),
+    20 => 
+    array (
+    ),
+  ),
+  '/Users/mirzat/Desktop/pengjisoft/caomei-laravel/app/Entities/Permission.php' => 
+  array (
+  ),
+  '/Users/mirzat/Desktop/pengjisoft/caomei-laravel/app/Exceptions/UnauthorizedClientException.php' => 
+  array (
+    9 => 
+    array (
+    ),
+    10 => 
+    array (
+    ),
+  ),
+  '/Users/mirzat/Desktop/pengjisoft/caomei-laravel/app/Providers/RouteServiceProvider.php' => 
+  array (
+    28 => 
+    array (
+    ),
+    29 => 
+    array (
+    ),
+    38 => 
+    array (
+    ),
+    40 => 
+    array (
+    ),
+    43 => 
+    array (
+    ),
+    54 => 
+    array (
+    ),
+    55 => 
+    array (
+    ),
+    56 => 
+    array (
+    ),
+    57 => 
+    array (
+    ),
+    68 => 
+    array (
+    ),
+    69 => 
+    array (
+    ),
+    70 => 
+    array (
+    ),
+    71 => 
+    array (
+    ),
+    72 => 
+    array (
+    ),
+  ),
+  '/Users/mirzat/Desktop/pengjisoft/caomei-laravel/app/Repositories/GoodsCategoryRespository.php' => 
+  array (
+    22 => 
+    array (
+    ),
+    23 => 
+    array (
+    ),
+    24 => 
+    array (
+    ),
+    26 => 
+    array (
+    ),
+    27 => NULL,
+    30 => 
+    array (
+    ),
+    31 => NULL,
+    35 => 
+    array (
+    ),
+    36 => NULL,
+    40 => 
+    array (
+    ),
+    41 => 
+    array (
+    ),
+    42 => 
+    array (
+    ),
+    43 => 
+    array (
+    ),
+    44 => 
+    array (
+    ),
+    45 => 
+    array (
+    ),
+    46 => 
+    array (
+    ),
+    47 => NULL,
+    51 => 
+    array (
+    ),
+    52 => 
+    array (
+    ),
+    53 => 
+    array (
+    ),
+    54 => 
+    array (
+    ),
+    56 => 
+    array (
+    ),
+    58 => 
+    array (
+    ),
+    59 => 
+    array (
+    ),
+    63 => 
+    array (
+    ),
+    64 => 
+    array (
+    ),
+    65 => 
+    array (
+    ),
+    67 => 
+    array (
+    ),
+    68 => NULL,
+    72 => 
+    array (
+    ),
+    73 => 
+    array (
+    ),
+    74 => 
+    array (
+    ),
+    76 => 
+    array (
+    ),
+    77 => 
+    array (
+    ),
+    78 => 
+    array (
+    ),
+    79 => 
+    array (
+    ),
+    80 => 
+    array (
+    ),
+    81 => NULL,
+    85 => 
+    array (
+    ),
+    86 => NULL,
+    90 => 
+    array (
+    ),
+    91 => 
+    array (
+    ),
+    93 => 
+    array (
+    ),
+    95 => 
+    array (
+    ),
+    96 => 
+    array (
+    ),
+    97 => NULL,
+    101 => 
+    array (
+    ),
+    102 => NULL,
+  ),
+  '/Users/mirzat/Desktop/pengjisoft/caomei-laravel/app/Exceptions/ApiException.php' => 
+  array (
+    22 => 
+    array (
+    ),
+    23 => 
+    array (
+    ),
+    24 => 
+    array (
+    ),
+    25 => 
+    array (
+    ),
+    26 => 
+    array (
+    ),
+    27 => 
+    array (
+    ),
+    29 => 
+    array (
+    ),
+  ),
+  '/Users/mirzat/Desktop/pengjisoft/caomei-laravel/app/Http/Middleware/EncryptCookies.php' => 
+  array (
+  ),
+  '/Users/mirzat/Desktop/pengjisoft/caomei-laravel/app/Entities/Role.php' => 
+  array (
+  ),
+  '/Users/mirzat/Desktop/pengjisoft/caomei-laravel/app/Entities/ShopGoods.php' => 
+  array (
+  ),
+  '/Users/mirzat/Desktop/pengjisoft/caomei-laravel/app/Entities/RestrauntTable.php' => 
+  array (
+  ),
+  '/Users/mirzat/Desktop/pengjisoft/caomei-laravel/app/Entities/ShopSetting.php' => 
+  array (
+  ),
+  '/Users/mirzat/Desktop/pengjisoft/caomei-laravel/app/Providers/AppServiceProvider.php' => 
+  array (
+    17 => 
+    array (
+    ),
+    27 => 
+    array (
+    ),
+  ),
+  '/Users/mirzat/Desktop/pengjisoft/caomei-laravel/app/Console/Kernel.php' => 
+  array (
+    29 => 
+    array (
+    ),
+    38 => 
+    array (
+    ),
+    40 => 
+    array (
+    ),
+    41 => 
+    array (
+    ),
+  ),
+  '/Users/mirzat/Desktop/pengjisoft/caomei-laravel/app/Entities/User.php' => 
+  array (
+  ),
+  '/Users/mirzat/Desktop/pengjisoft/caomei-laravel/app/Http/Controllers/AuthController.php' => 
+  array (
+    20 => 
+    array (
+    ),
+    25 => 
+    array (
+    ),
+    27 => 
+    array (
+    ),
+    28 => NULL,
+  ),
+  '/Users/mirzat/Desktop/pengjisoft/caomei-laravel/app/Entities/Goods.php' => 
+  array (
+  ),
+  '/Users/mirzat/Desktop/pengjisoft/caomei-laravel/app/Entities/OrderDetail.php' => 
+  array (
+  ),
+  '/Users/mirzat/Desktop/pengjisoft/caomei-laravel/app/Exceptions/ErrorCodes.php' => 
+  array (
+    59 => 
+    array (
+    ),
+    60 => 
+    array (
+    ),
+    63 => 
+    array (
+    ),
+    65 => NULL,
+    75 => 
+    array (
+    ),
+    76 => NULL,
+    80 => 
+    array (
+    ),
+    81 => NULL,
+  ),
+  '/Users/mirzat/Desktop/pengjisoft/caomei-laravel/app/Providers/EventServiceProvider.php' => 
+  array (
+    28 => 
+    array (
+    ),
+    31 => 
+    array (
+    ),
+  ),
+  '/Users/mirzat/Desktop/pengjisoft/caomei-laravel/app/Exceptions/ConfigurationException.php' => 
+  array (
+  ),
+  '/Users/mirzat/Desktop/pengjisoft/caomei-laravel/app/Http/Kernel.php' => 
+  array (
+  ),
+  '/Users/mirzat/Desktop/pengjisoft/caomei-laravel/app/Entities/Vcode.php' => 
+  array (
+  ),
+  '/Users/mirzat/Desktop/pengjisoft/caomei-laravel/app/Providers/AuthServiceProvider.php' => 
+  array (
+    26 => 
+    array (
+    ),
+    29 => 
+    array (
+    ),
+  ),
+  '/Users/mirzat/Desktop/pengjisoft/caomei-laravel/app/Entities/RestrauntSetting.php' => 
+  array (
+  ),
+  '/Users/mirzat/Desktop/pengjisoft/caomei-laravel/app/Http/Middleware/RedirectIfAuthenticated.php' => 
+  array (
+    20 => 
+    array (
+    ),
+    21 => 
+    array (
+    ),
+    24 => 
+    array (
+    ),
+    25 => NULL,
+  ),
+  '/Users/mirzat/Desktop/pengjisoft/caomei-laravel/app/Http/Controllers/Controller.php' => 
+  array (
+    20 => 
+    array (
+    ),
+    21 => 
+    array (
+    ),
+    22 => 
+    array (
+    ),
+    23 => 
+    array (
+    ),
+    24 => 
+    array (
+    ),
+    29 => 
+    array (
+    ),
+    30 => 
+    array (
+    ),
+    31 => 
+    array (
+    ),
+    33 => NULL,
+    38 => 
+    array (
+    ),
+    39 => 
+    array (
+    ),
+    40 => 
+    array (
+    ),
+    42 => NULL,
+    47 => 
+    array (
+    ),
+    48 => 
+    array (
+    ),
+    49 => 
+    array (
+    ),
+    51 => 
+    array (
+    ),
+    52 => NULL,
+    57 => 
+    array (
+    ),
+    58 => 
+    array (
+    ),
+    59 => 
+    array (
+    ),
+    61 => 
+    array (
+    ),
+    62 => NULL,
+  ),
+  '/Users/mirzat/Desktop/pengjisoft/caomei-laravel/app/Http/Middleware/TrustProxies.php' => 
+  array (
+  ),
+));
+$coverage->setTests(array (
+  'UNCOVERED_FILES_FROM_WHITELIST' => 
+  array (
+    'size' => 'unknown',
+    'status' => -1,
+  ),
+));
+
+$filter = $coverage->filter();
+$filter->setWhitelistedFiles(array (
+  '/Users/mirzat/Desktop/pengjisoft/caomei-laravel/app/Console/Kernel.php' => true,
+  '/Users/mirzat/Desktop/pengjisoft/caomei-laravel/app/Entities/Goods.php' => true,
+  '/Users/mirzat/Desktop/pengjisoft/caomei-laravel/app/Entities/GoodsCategory.php' => true,
+  '/Users/mirzat/Desktop/pengjisoft/caomei-laravel/app/Entities/GoodsCollection.php' => true,
+  '/Users/mirzat/Desktop/pengjisoft/caomei-laravel/app/Entities/Order.php' => true,
+  '/Users/mirzat/Desktop/pengjisoft/caomei-laravel/app/Entities/OrderDetail.php' => true,
+  '/Users/mirzat/Desktop/pengjisoft/caomei-laravel/app/Entities/OrderHistory.php' => true,
+  '/Users/mirzat/Desktop/pengjisoft/caomei-laravel/app/Entities/Permission.php' => true,
+  '/Users/mirzat/Desktop/pengjisoft/caomei-laravel/app/Entities/Printer.php' => true,
+  '/Users/mirzat/Desktop/pengjisoft/caomei-laravel/app/Entities/Qrcode.php' => true,
+  '/Users/mirzat/Desktop/pengjisoft/caomei-laravel/app/Entities/Restraunt.php' => true,
+  '/Users/mirzat/Desktop/pengjisoft/caomei-laravel/app/Entities/RestrauntSetting.php' => true,
+  '/Users/mirzat/Desktop/pengjisoft/caomei-laravel/app/Entities/RestrauntTable.php' => true,
+  '/Users/mirzat/Desktop/pengjisoft/caomei-laravel/app/Entities/Role.php' => true,
+  '/Users/mirzat/Desktop/pengjisoft/caomei-laravel/app/Entities/ShopGoods.php' => true,
+  '/Users/mirzat/Desktop/pengjisoft/caomei-laravel/app/Entities/ShopSetting.php' => true,
+  '/Users/mirzat/Desktop/pengjisoft/caomei-laravel/app/Entities/Staff.php' => true,
+  '/Users/mirzat/Desktop/pengjisoft/caomei-laravel/app/Entities/User.php' => true,
+  '/Users/mirzat/Desktop/pengjisoft/caomei-laravel/app/Entities/Vcode.php' => true,
+  '/Users/mirzat/Desktop/pengjisoft/caomei-laravel/app/Entities/WechatInfo.php' => true,
+  '/Users/mirzat/Desktop/pengjisoft/caomei-laravel/app/Exceptions/ApiException.php' => true,
+  '/Users/mirzat/Desktop/pengjisoft/caomei-laravel/app/Exceptions/ConfigurationException.php' => true,
+  '/Users/mirzat/Desktop/pengjisoft/caomei-laravel/app/Exceptions/DuplicateUniqueIdException.php' => true,
+  '/Users/mirzat/Desktop/pengjisoft/caomei-laravel/app/Exceptions/ErrorCodes.php' => true,
+  '/Users/mirzat/Desktop/pengjisoft/caomei-laravel/app/Exceptions/Handler.php' => true,
+  '/Users/mirzat/Desktop/pengjisoft/caomei-laravel/app/Exceptions/InvalidArgumentException.php' => true,
+  '/Users/mirzat/Desktop/pengjisoft/caomei-laravel/app/Exceptions/UnauthorizedClientException.php' => true,
+  '/Users/mirzat/Desktop/pengjisoft/caomei-laravel/app/Exceptions/UnauthorizedUserException.php' => true,
+  '/Users/mirzat/Desktop/pengjisoft/caomei-laravel/app/Http/Controllers/AuthController.php' => true,
+  '/Users/mirzat/Desktop/pengjisoft/caomei-laravel/app/Http/Controllers/Controller.php' => true,
+  '/Users/mirzat/Desktop/pengjisoft/caomei-laravel/app/Http/Kernel.php' => true,
+  '/Users/mirzat/Desktop/pengjisoft/caomei-laravel/app/Http/Middleware/EncryptCookies.php' => true,
+  '/Users/mirzat/Desktop/pengjisoft/caomei-laravel/app/Http/Middleware/RedirectIfAuthenticated.php' => true,
+  '/Users/mirzat/Desktop/pengjisoft/caomei-laravel/app/Http/Middleware/TrimStrings.php' => true,
+  '/Users/mirzat/Desktop/pengjisoft/caomei-laravel/app/Http/Middleware/TrustProxies.php' => true,
+  '/Users/mirzat/Desktop/pengjisoft/caomei-laravel/app/Http/Middleware/VerifyCsrfToken.php' => true,
+  '/Users/mirzat/Desktop/pengjisoft/caomei-laravel/app/Http/Responses/ApiResponse.php' => true,
+  '/Users/mirzat/Desktop/pengjisoft/caomei-laravel/app/Providers/AppServiceProvider.php' => true,
+  '/Users/mirzat/Desktop/pengjisoft/caomei-laravel/app/Providers/AuthServiceProvider.php' => true,
+  '/Users/mirzat/Desktop/pengjisoft/caomei-laravel/app/Providers/BroadcastServiceProvider.php' => true,
+  '/Users/mirzat/Desktop/pengjisoft/caomei-laravel/app/Providers/EventServiceProvider.php' => true,
+  '/Users/mirzat/Desktop/pengjisoft/caomei-laravel/app/Providers/RouteServiceProvider.php' => true,
+  '/Users/mirzat/Desktop/pengjisoft/caomei-laravel/app/Repositories/GoodsCategoryRespository.php' => true,
+  '/Users/mirzat/Desktop/pengjisoft/caomei-laravel/app/Services/GoodsCategoryService.php' => true,
+));
+
+return $coverage;

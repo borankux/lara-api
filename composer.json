@@ -1,0 +1,14 @@
+{
+    "name": "mirzat/lara-api",
+    "description": "Laravel based api project template",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mirzat",
+            "email": "mirzatsoft@163.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
