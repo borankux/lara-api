@@ -9,6 +9,6 @@
             "email": "mirzatsoft@163.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {}
 }
