@@ -21,7 +21,7 @@ class AuthController extends Controller
         $phone = $request->get('phone');
         $data = [
             'phone' => $phone
-        ];
-        return $this->ok($data);
+];
+        return $this->ok($data); 
     }
 }
